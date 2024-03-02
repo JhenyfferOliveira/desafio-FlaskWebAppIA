@@ -15,7 +15,7 @@ Este projeto consiste em um exercício de criação de um aplicativo Web com IA 
 A documentação da Azure pode ser encontrada [aqui](https://learn.microsoft.com/pt-br/training/modules/python-flask-build-ai-web-app/).
 
 <p align="center">
-<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="7%" height="1%"/>
-<img src= "https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" width="5%" height="1.5%"/>
-<img src= "https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="5%" height="1.5%"/>
+<img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60"/>
+<img src= "https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" height="60"/>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="60"/>
 </p>
